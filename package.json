@@ -1,0 +1,13 @@
+{
+  "name": "Test-Project",
+  "version": "1.0.0",
+  "description": "Jasmine Testing Project",
+  "main": "index.js",
+  "author": "Sahil Mokkapati",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^5.0.0"
+  }
+}
